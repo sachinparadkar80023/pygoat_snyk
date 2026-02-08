@@ -1,0 +1,10 @@
+# Intentionally vulnerable dependencies for Snyk scanning demonstration
+Flask==0.12.2
+Django==1.11.0
+Jinja2==2.7.2
+requests==2.6.0
+PyYAML==3.12
+cryptography==2.0
+SQLAlchemy==1.2.0
+Werkzeug==0.11.10
+paramiko==2.0.0
